@@ -41,4 +41,10 @@ Grâce à ce projet, j’ai appris à :
 - Utiliser GROUP BY, SUM, ORDER BY, LIMIT, INNER JOIN, AVG, COUNT,MIN, MAX...
 - Analyser des données pour en tirer des conclusions  
 
-## 📁 Structure du projet
+## 📁 Structure du projet 
+sql-supermarket-sales-analysis
+│
+├── README.md
+├── questions.md
+├── analysis.sql
+├── dataset.csv
