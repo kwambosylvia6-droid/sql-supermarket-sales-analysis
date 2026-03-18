@@ -17,8 +17,7 @@ L’objectif était de mettre en pratique mes compétences en SQL pour extraire 
 
 
 ## 🗂️ Données utilisées
-2 dataset
-Le dataset contient :
+Le dataset principal 'facture.cvs' contient :
 - facture_ID  
 - ville 
 - Catégorie 
@@ -27,10 +26,17 @@ Le dataset contient :
 - Quantite
 - Date  
 - méthode payement
-le dataset contient :
-- nom_client
-- prenom
-- type d'achat
+  
+
+### 2️⃣ Dataset clients
+'clients.csv' contient   
+- Client_ID  
+- facture_ID
+- Nom 
+- Genre
+- Age  
+- ville 
+
 
 ## 🛠️ Outils
 - SQL  
