@@ -5,7 +5,8 @@
 3. Quelles villes ont le plus de ventes ?
 4. Quel mois a le chiffre d'affaires le plus élevé ?
 5. Quelle méthode de paiement est la plus utilisée ?
-6. quels sont les différents noms des clients ayant acheté tel ou tel produit ?
-7. quels est la moyenne des ventes ?
-8. Donnez le min et le max de ventes ?
-9. donnez 5 ou 10 produits les plus élevés en terme de prix ?
+6. Quel client a dépensé le plus ?
+7. Moyenne de dépense par genre et par ville
+8. Produits les plus populaires par tranche d’âge
+9. Nombre de clients par ville
+10. Revenus par client par mois
