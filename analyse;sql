@@ -38,24 +38,24 @@ From facture
 GROUP BY méthode_payement
 ORDER BY total DESC;
 
-QUESTION 6 : Produits générant le plus des revenus 
+QUESTION 6 : nom,genre,âge du client qui a le plus dépensé  
 
-SELECT nom_produit,SUM(Quantite * prix_unitaire) AS Total_Revenus
+SELECT nom, âge,genre,SUM(Quantite * prix_unitaire) AS Total_Revenus
 FROM facture 
 joint client
 using(facture_id)
-GROUP BY nom_produit
+GROUP BY nom, âge,genre
 ORDER BY Total_Revenus DESC
 LIMIT 5;
 
 QUESTION 7 : Catégorie la plus vendue par ville
 
-SELECT City,Catégories,SUM(Quantite) AS Total_Ventes
+SELECT genre ,AVG(Quantite) AS moyenne_dépenses 
 FROM facture
 joint client
 using(facture_id) 
-GROUP BY ville, Catégories 
-ORDER BY Total_Ventes DESC;
+GROUP BY genre
+ORDER BY dépenses DESC;
 
 QUESTION 8 : Clients avec le plus d'achats (jointure avec table clients)
 SELECT c.Name, c.Age, c.Gender, SUM(s.Unit_price * s.Quantity) AS Total_Achat
