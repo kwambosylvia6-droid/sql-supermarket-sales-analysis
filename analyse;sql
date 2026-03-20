@@ -1,5 +1,5 @@
  Projet : Analyse des ventes Supermarché
--- Auteur : Sylvia Kwambo (Sya)
+-- Auteur : Sylvia Kwambo 
 -- Fichier : analyse.sql
 -- Description : Réponses aux 10 questions d'analyse des données
 
@@ -57,23 +57,25 @@ using(facture_id)
 GROUP BY genre
 ORDER BY dépenses DESC;
 
-QUESTION 8 : Clients avec le plus d'achats (jointure avec table clients)
-SELECT c.Name, c.Age, c.Gender, SUM(s.Unit_price * s.Quantity) AS Total_Achat
-FROM sales s
-JOIN clients c
-ON s.Invoice_ID = c.Invoice_ID
-GROUP BY c.Name, c.Age, c.Gender
+QUESTION 8 : Produits les plus populaires par tranche d’âge
+
+SELECT nom_produit,SUM(Quantite * prix_unitaire) AS Total_Achat
+FROM facture
+JOIN client 
+using(facture_id)
+GROUP BY nom_produit
 ORDER BY Total_Achat DESC
 limite 5;
 
--- 🔹 QUESTION 9 : Top 5 des produits par ville
-SELECT ville (Quantity) AS Total_Ventes
-FROM sales
-GROUP BY City, Product
-ORDER BY City, Total_Ventes DESC
+QUESTION 9 : Nombre de clients par ville
+
+SELECT villes,count(distinct client_id) AS nombre_clients
+FROM facture
+joint client
+using(facture_id)
+GROUP BY villes
+ORDER BY nombre_clients DESC
 LIMIT 5;
 
--- 🔹 QUESTION 10 : Ventes d'une période spécifique (ex: Mars 2026)
-SELECT *
-FROM sales
-WHERE YEAR(Date) = 2026 AND MONTH(Date) = 3;
+QUESTION 10 : Revenus par client par mois
+ 
