@@ -48,7 +48,7 @@ GROUP BY nom, âge,genre
 ORDER BY Total_Revenus DESC
 LIMIT 5;
 
-QUESTION 7 : Catégorie la plus vendue par ville
+QUESTION 7 : moyenne des dépenses par genre 
 
 SELECT genre ,AVG(Quantite) AS moyenne_dépenses 
 FROM facture
