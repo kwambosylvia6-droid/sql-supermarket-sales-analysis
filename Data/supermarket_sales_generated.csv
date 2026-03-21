@@ -1,0 +1,501 @@
+Invoice_ID,City,Category,Product,Unit_price,Quantity,Date,Payment_Method
+INV0001,Kinshasa,Électronique,Clé USB,39.17,4,2026-05-03,Mobile Money
+INV0002,Lubumbashi,Électronique,Clé USB,37.79,7,2026-05-05,Mobile Money
+INV0003,Kinshasa,Hygiène,Dentifrice,14.88,8,2026-04-05,Credit Card
+INV0004,Kinshasa,Électronique,Casque,5.59,1,2026-04-24,Credit Card
+INV0005,Goma,Alimentation,Sucre,24.72,7,2026-04-19,Credit Card
+INV0006,Goma,Alimentation,Huile,26.83,5,2026-03-23,Cash
+INV0007,Goma,Vêtements,Chaussures,21.51,5,2026-04-06,Cash
+INV0008,Kinshasa,Alimentation,Huile,28.42,4,2026-03-12,Cash
+INV0009,Goma,Alimentation,Farine,35.27,4,2026-04-03,Cash
+INV0010,Kinshasa,Vêtements,Chapeau,49.57,5,2026-04-08,Mobile Money
+INV0011,Kinshasa,Boissons,Jus,20.85,3,2026-04-17,Mobile Money
+INV0012,Goma,Vêtements,Chaussures,14.76,2,2026-04-26,Mobile Money
+INV0013,Goma,Hygiène,Dentifrice,49.35,3,2026-03-15,Mobile Money
+INV0014,Kinshasa,Électronique,Clé USB,13.37,6,2026-03-25,Cash
+INV0015,Lubumbashi,Hygiène,Shampoing,28.16,6,2026-04-18,Cash
+INV0016,Lubumbashi,Alimentation,Huile,37.44,3,2026-04-30,Credit Card
+INV0017,Kinshasa,Vêtements,Pantalon,9.6,7,2026-03-21,Cash
+INV0018,Goma,Électronique,Casque,41.95,1,2026-03-19,Cash
+INV0019,Goma,Alimentation,Riz,36.69,10,2026-04-13,Credit Card
+INV0020,Kinshasa,Électronique,Batterie,1.06,7,2026-04-02,Cash
+INV0021,Kinshasa,Boissons,Jus,31.87,4,2026-03-14,Cash
+INV0022,Kinshasa,Boissons,Thé,8.4,4,2026-04-27,Credit Card
+INV0023,Goma,Alimentation,Sucre,16.98,3,2026-04-12,Credit Card
+INV0024,Kinshasa,Électronique,Casque,22.06,7,2026-05-03,Credit Card
+INV0025,Lubumbashi,Boissons,Coca,43.48,10,2026-05-04,Cash
+INV0026,Goma,Hygiène,Déodorant,27.91,10,2026-04-30,Mobile Money
+INV0027,Lubumbashi,Alimentation,Farine,46.95,10,2026-04-17,Mobile Money
+INV0028,Goma,Hygiène,Déodorant,49.03,10,2026-03-29,Mobile Money
+INV0029,Lubumbashi,Électronique,Lampe,23.02,9,2026-04-18,Cash
+INV0030,Goma,Électronique,Casque,39.88,7,2026-04-08,Cash
+INV0031,Kinshasa,Électronique,Batterie,11.39,4,2026-03-21,Mobile Money
+INV0032,Goma,Électronique,Batterie,4.88,4,2026-04-16,Credit Card
+INV0033,Lubumbashi,Boissons,Thé,46.35,9,2026-03-26,Credit Card
+INV0034,Lubumbashi,Hygiène,Déodorant,49.5,6,2026-04-29,Credit Card
+INV0035,Kinshasa,Vêtements,T-shirt,20.43,9,2026-04-22,Credit Card
+INV0036,Goma,Alimentation,Farine,31.87,4,2026-03-18,Cash
+INV0037,Lubumbashi,Hygiène,Dentifrice,32.61,7,2026-04-11,Mobile Money
+INV0038,Kinshasa,Boissons,Jus,6.81,9,2026-03-27,Mobile Money
+INV0039,Lubumbashi,Vêtements,T-shirt,16.49,7,2026-05-04,Credit Card
+INV0040,Goma,Alimentation,Huile,43.27,2,2026-05-08,Cash
+INV0041,Goma,Boissons,Coca,20.98,4,2026-04-02,Cash
+INV0042,Lubumbashi,Alimentation,Farine,39.59,8,2026-04-05,Credit Card
+INV0043,Kinshasa,Électronique,Lampe,4.36,1,2026-03-21,Cash
+INV0044,Lubumbashi,Boissons,Thé,11.74,2,2026-04-04,Credit Card
+INV0045,Lubumbashi,Vêtements,T-shirt,6.1,7,2026-04-24,Mobile Money
+INV0046,Lubumbashi,Alimentation,Huile,21.76,4,2026-03-13,Cash
+INV0047,Lubumbashi,Alimentation,Huile,28.91,9,2026-04-15,Credit Card
+INV0048,Lubumbashi,Vêtements,Chapeau,42.39,5,2026-04-15,Credit Card
+INV0049,Kinshasa,Vêtements,T-shirt,43.22,8,2026-04-18,Mobile Money
+INV0050,Kinshasa,Hygiène,Dentifrice,27.18,5,2026-05-01,Credit Card
+INV0051,Kinshasa,Électronique,Casque,39.88,5,2026-03-31,Cash
+INV0052,Lubumbashi,Hygiène,Savon,22.85,5,2026-05-07,Mobile Money
+INV0053,Kinshasa,Alimentation,Riz,13.44,9,2026-04-12,Cash
+INV0054,Kinshasa,Boissons,Coca,49.8,8,2026-04-12,Cash
+INV0055,Goma,Hygiène,Savon,15.13,6,2026-04-12,Cash
+INV0056,Goma,Boissons,Jus,42.47,6,2026-03-14,Mobile Money
+INV0057,Goma,Alimentation,Sucre,26.89,4,2026-04-29,Mobile Money
+INV0058,Goma,Électronique,Casque,13.98,8,2026-04-23,Credit Card
+INV0059,Kinshasa,Hygiène,Déodorant,22.18,7,2026-05-03,Mobile Money
+INV0060,Kinshasa,Électronique,Clé USB,25.61,9,2026-04-22,Cash
+INV0061,Lubumbashi,Alimentation,Farine,32.01,9,2026-04-14,Credit Card
+INV0062,Lubumbashi,Hygiène,Dentifrice,27.79,2,2026-03-17,Mobile Money
+INV0063,Goma,Électronique,Batterie,26.02,2,2026-03-16,Mobile Money
+INV0064,Lubumbashi,Vêtements,Pantalon,40.93,8,2026-05-06,Mobile Money
+INV0065,Lubumbashi,Hygiène,Shampoing,39.62,4,2026-04-21,Credit Card
+INV0066,Goma,Boissons,Jus,5.87,10,2026-03-17,Mobile Money
+INV0067,Kinshasa,Boissons,Eau minérale,21.36,10,2026-03-27,Cash
+INV0068,Lubumbashi,Alimentation,Riz,24.03,2,2026-03-13,Mobile Money
+INV0069,Goma,Alimentation,Farine,1.51,8,2026-03-18,Credit Card
+INV0070,Kinshasa,Boissons,Jus,11.35,3,2026-03-27,Cash
+INV0071,Kinshasa,Hygiène,Déodorant,14.77,3,2026-03-21,Credit Card
+INV0072,Kinshasa,Électronique,Lampe,16.51,5,2026-03-31,Credit Card
+INV0073,Goma,Boissons,Coca,39.7,7,2026-03-11,Cash
+INV0074,Kinshasa,Boissons,Eau minérale,13.92,3,2026-05-03,Credit Card
+INV0075,Kinshasa,Électronique,Casque,47.38,4,2026-04-22,Cash
+INV0076,Goma,Alimentation,Farine,7.73,1,2026-04-20,Cash
+INV0077,Goma,Électronique,Clé USB,19.94,10,2026-03-16,Cash
+INV0078,Kinshasa,Vêtements,T-shirt,6.63,1,2026-05-03,Credit Card
+INV0079,Kinshasa,Vêtements,Chapeau,14.23,7,2026-04-13,Cash
+INV0080,Lubumbashi,Vêtements,Chapeau,20.97,5,2026-04-29,Credit Card
+INV0081,Goma,Électronique,Casque,35.49,10,2026-04-02,Cash
+INV0082,Lubumbashi,Boissons,Jus,8.76,1,2026-03-22,Cash
+INV0083,Lubumbashi,Électronique,Clé USB,48.7,4,2026-03-25,Mobile Money
+INV0084,Lubumbashi,Hygiène,Savon,17.57,7,2026-05-06,Cash
+INV0085,Goma,Vêtements,Chapeau,39.15,5,2026-03-19,Cash
+INV0086,Goma,Vêtements,Pantalon,35.13,3,2026-04-27,Credit Card
+INV0087,Kinshasa,Électronique,Batterie,20.4,10,2026-04-03,Cash
+INV0088,Kinshasa,Hygiène,Déodorant,37.69,5,2026-03-31,Mobile Money
+INV0089,Kinshasa,Boissons,Coca,41.29,2,2026-03-30,Credit Card
+INV0090,Lubumbashi,Électronique,Clé USB,37.51,4,2026-03-10,Cash
+INV0091,Goma,Électronique,Casque,26.49,1,2026-03-30,Credit Card
+INV0092,Lubumbashi,Électronique,Clé USB,37.98,2,2026-03-27,Cash
+INV0093,Lubumbashi,Vêtements,Chaussures,13.54,5,2026-04-11,Mobile Money
+INV0094,Goma,Hygiène,Shampoing,4.71,8,2026-04-02,Cash
+INV0095,Lubumbashi,Vêtements,Pantalon,42.07,8,2026-03-20,Credit Card
+INV0096,Goma,Électronique,Lampe,45.2,5,2026-04-07,Credit Card
+INV0097,Kinshasa,Alimentation,Riz,47.98,6,2026-04-24,Credit Card
+INV0098,Goma,Alimentation,Farine,45.67,2,2026-03-19,Cash
+INV0099,Goma,Électronique,Casque,33.31,10,2026-04-15,Credit Card
+INV0100,Kinshasa,Alimentation,Sucre,45.14,8,2026-04-28,Mobile Money
+INV0101,Goma,Hygiène,Savon,43.76,2,2026-03-10,Mobile Money
+INV0102,Goma,Alimentation,Sucre,36.99,3,2026-04-07,Credit Card
+INV0103,Goma,Boissons,Coca,49.59,9,2026-04-23,Mobile Money
+INV0104,Kinshasa,Alimentation,Sucre,25.73,3,2026-03-27,Cash
+INV0105,Lubumbashi,Hygiène,Déodorant,49.73,10,2026-05-04,Mobile Money
+INV0106,Goma,Alimentation,Farine,24.5,9,2026-03-30,Credit Card
+INV0107,Lubumbashi,Électronique,Casque,22.6,10,2026-03-30,Credit Card
+INV0108,Goma,Boissons,Eau minérale,22.65,5,2026-03-16,Mobile Money
+INV0109,Goma,Boissons,Eau minérale,29.74,5,2026-03-23,Cash
+INV0110,Kinshasa,Vêtements,Chaussures,8.04,6,2026-04-16,Credit Card
+INV0111,Goma,Boissons,Eau minérale,40.13,10,2026-04-16,Mobile Money
+INV0112,Kinshasa,Boissons,Eau minérale,14.87,2,2026-04-19,Mobile Money
+INV0113,Goma,Boissons,Thé,39.14,8,2026-05-04,Credit Card
+INV0114,Kinshasa,Électronique,Clé USB,41.38,6,2026-05-01,Cash
+INV0115,Lubumbashi,Vêtements,Chaussures,37.49,6,2026-04-07,Cash
+INV0116,Lubumbashi,Hygiène,Shampoing,3.81,6,2026-04-10,Credit Card
+INV0117,Kinshasa,Boissons,Eau minérale,5.04,10,2026-03-19,Mobile Money
+INV0118,Lubumbashi,Hygiène,Shampoing,36.12,10,2026-05-08,Cash
+INV0119,Lubumbashi,Électronique,Casque,20.72,3,2026-04-09,Cash
+INV0120,Kinshasa,Électronique,Batterie,31.24,7,2026-04-27,Cash
+INV0121,Kinshasa,Vêtements,Chaussures,6.74,7,2026-03-20,Mobile Money
+INV0122,Lubumbashi,Alimentation,Sucre,47.84,8,2026-03-19,Credit Card
+INV0123,Kinshasa,Électronique,Clé USB,7.32,6,2026-04-04,Credit Card
+INV0124,Goma,Électronique,Lampe,6.93,8,2026-04-19,Cash
+INV0125,Goma,Boissons,Thé,32.38,1,2026-03-22,Cash
+INV0126,Kinshasa,Alimentation,Sucre,4.05,6,2026-04-21,Credit Card
+INV0127,Lubumbashi,Hygiène,Dentifrice,37.5,2,2026-03-31,Cash
+INV0128,Lubumbashi,Boissons,Coca,7.01,5,2026-04-07,Credit Card
+INV0129,Kinshasa,Électronique,Batterie,10.27,8,2026-05-02,Mobile Money
+INV0130,Kinshasa,Boissons,Coca,12.75,7,2026-03-21,Cash
+INV0131,Goma,Hygiène,Savon,33.4,3,2026-04-14,Cash
+INV0132,Kinshasa,Alimentation,Sucre,10.54,10,2026-04-06,Cash
+INV0133,Lubumbashi,Alimentation,Farine,14.26,8,2026-03-17,Cash
+INV0134,Goma,Alimentation,Riz,11.72,8,2026-04-01,Mobile Money
+INV0135,Kinshasa,Électronique,Clé USB,27.25,4,2026-04-06,Cash
+INV0136,Goma,Électronique,Lampe,22.56,1,2026-03-13,Credit Card
+INV0137,Kinshasa,Alimentation,Riz,48.44,1,2026-03-11,Credit Card
+INV0138,Goma,Vêtements,Pantalon,40.21,5,2026-04-08,Credit Card
+INV0139,Lubumbashi,Boissons,Eau minérale,33.43,7,2026-03-11,Mobile Money
+INV0140,Kinshasa,Électronique,Batterie,31.31,2,2026-04-16,Cash
+INV0141,Goma,Hygiène,Shampoing,6.82,6,2026-04-05,Credit Card
+INV0142,Lubumbashi,Boissons,Eau minérale,49.5,7,2026-04-15,Cash
+INV0143,Lubumbashi,Boissons,Coca,5.62,7,2026-03-22,Credit Card
+INV0144,Kinshasa,Vêtements,T-shirt,47.16,3,2026-04-19,Cash
+INV0145,Lubumbashi,Alimentation,Farine,16.83,2,2026-04-14,Cash
+INV0146,Kinshasa,Électronique,Clé USB,22.22,6,2026-03-12,Credit Card
+INV0147,Lubumbashi,Alimentation,Riz,49.19,10,2026-04-22,Cash
+INV0148,Goma,Hygiène,Dentifrice,32.45,7,2026-05-04,Cash
+INV0149,Lubumbashi,Hygiène,Déodorant,41.99,3,2026-05-06,Credit Card
+INV0150,Kinshasa,Électronique,Clé USB,14.77,1,2026-03-24,Credit Card
+INV0151,Kinshasa,Boissons,Jus,22.93,5,2026-03-21,Mobile Money
+INV0152,Goma,Vêtements,Pantalon,11.77,8,2026-05-07,Cash
+INV0153,Lubumbashi,Alimentation,Farine,12.64,4,2026-04-02,Mobile Money
+INV0154,Lubumbashi,Électronique,Batterie,27.23,2,2026-04-28,Cash
+INV0155,Lubumbashi,Hygiène,Shampoing,34.83,5,2026-04-15,Cash
+INV0156,Lubumbashi,Vêtements,T-shirt,37.64,10,2026-03-17,Mobile Money
+INV0157,Lubumbashi,Vêtements,Chapeau,14.28,2,2026-04-23,Mobile Money
+INV0158,Goma,Vêtements,Chapeau,6.43,10,2026-04-27,Credit Card
+INV0159,Goma,Boissons,Jus,41.05,7,2026-05-08,Mobile Money
+INV0160,Lubumbashi,Électronique,Casque,6.29,1,2026-05-08,Credit Card
+INV0161,Goma,Vêtements,Pantalon,22.77,8,2026-05-04,Cash
+INV0162,Goma,Vêtements,T-shirt,36.59,4,2026-04-11,Mobile Money
+INV0163,Lubumbashi,Vêtements,T-shirt,30.54,1,2026-04-03,Credit Card
+INV0164,Lubumbashi,Hygiène,Savon,36.59,3,2026-03-10,Credit Card
+INV0165,Goma,Hygiène,Savon,49.82,4,2026-03-30,Mobile Money
+INV0166,Lubumbashi,Alimentation,Huile,3.56,4,2026-03-30,Credit Card
+INV0167,Kinshasa,Hygiène,Dentifrice,25.69,10,2026-03-26,Credit Card
+INV0168,Kinshasa,Vêtements,Chapeau,30.34,10,2026-04-14,Cash
+INV0169,Goma,Électronique,Clé USB,43.4,5,2026-04-17,Cash
+INV0170,Kinshasa,Hygiène,Savon,2.64,4,2026-04-16,Mobile Money
+INV0171,Goma,Boissons,Thé,28.5,8,2026-03-28,Credit Card
+INV0172,Kinshasa,Électronique,Batterie,32.31,6,2026-04-25,Credit Card
+INV0173,Kinshasa,Boissons,Coca,43.11,1,2026-04-08,Credit Card
+INV0174,Lubumbashi,Alimentation,Huile,36.78,2,2026-03-15,Mobile Money
+INV0175,Goma,Électronique,Batterie,46.95,4,2026-04-22,Mobile Money
+INV0176,Kinshasa,Hygiène,Dentifrice,46.42,10,2026-04-12,Cash
+INV0177,Lubumbashi,Électronique,Batterie,19.78,7,2026-05-06,Mobile Money
+INV0178,Lubumbashi,Vêtements,Pantalon,2.67,1,2026-04-22,Cash
+INV0179,Goma,Boissons,Coca,40.58,3,2026-04-16,Mobile Money
+INV0180,Kinshasa,Alimentation,Sucre,29.98,4,2026-04-27,Credit Card
+INV0181,Kinshasa,Boissons,Thé,5.72,9,2026-04-14,Credit Card
+INV0182,Goma,Vêtements,T-shirt,32.81,5,2026-04-02,Credit Card
+INV0183,Kinshasa,Vêtements,T-shirt,24.28,10,2026-05-04,Mobile Money
+INV0184,Lubumbashi,Électronique,Lampe,26.78,1,2026-04-01,Mobile Money
+INV0185,Goma,Électronique,Casque,41.3,2,2026-04-13,Credit Card
+INV0186,Goma,Boissons,Eau minérale,22.18,9,2026-04-04,Mobile Money
+INV0187,Lubumbashi,Vêtements,Chapeau,7.71,10,2026-04-27,Credit Card
+INV0188,Lubumbashi,Hygiène,Dentifrice,45.26,6,2026-03-10,Cash
+INV0189,Goma,Vêtements,Pantalon,1.76,1,2026-03-16,Mobile Money
+INV0190,Goma,Boissons,Jus,25.52,1,2026-04-12,Cash
+INV0191,Goma,Alimentation,Farine,23.17,4,2026-03-15,Mobile Money
+INV0192,Lubumbashi,Alimentation,Sucre,39.89,8,2026-05-04,Mobile Money
+INV0193,Lubumbashi,Électronique,Lampe,11.78,6,2026-03-19,Cash
+INV0194,Kinshasa,Électronique,Lampe,17.07,7,2026-04-14,Credit Card
+INV0195,Kinshasa,Hygiène,Savon,27.15,8,2026-04-24,Mobile Money
+INV0196,Kinshasa,Alimentation,Huile,49.19,4,2026-03-19,Mobile Money
+INV0197,Lubumbashi,Hygiène,Dentifrice,12.54,1,2026-03-17,Mobile Money
+INV0198,Kinshasa,Boissons,Coca,6.88,9,2026-04-01,Mobile Money
+INV0199,Goma,Hygiène,Shampoing,38.75,1,2026-05-06,Cash
+INV0200,Lubumbashi,Boissons,Thé,37.64,4,2026-05-02,Credit Card
+INV0201,Goma,Vêtements,Pantalon,16.02,2,2026-03-19,Cash
+INV0202,Kinshasa,Vêtements,T-shirt,45.68,10,2026-03-22,Credit Card
+INV0203,Kinshasa,Alimentation,Riz,31.14,3,2026-03-25,Cash
+INV0204,Kinshasa,Hygiène,Déodorant,21.94,10,2026-03-15,Cash
+INV0205,Goma,Alimentation,Riz,44.77,4,2026-04-25,Credit Card
+INV0206,Goma,Boissons,Eau minérale,24.15,4,2026-04-16,Cash
+INV0207,Kinshasa,Vêtements,T-shirt,49.32,3,2026-05-09,Cash
+INV0208,Goma,Vêtements,Chaussures,31.99,9,2026-03-26,Cash
+INV0209,Kinshasa,Vêtements,Pantalon,30.45,8,2026-03-19,Mobile Money
+INV0210,Kinshasa,Vêtements,T-shirt,30.48,1,2026-04-01,Credit Card
+INV0211,Lubumbashi,Vêtements,Pantalon,9.17,7,2026-04-09,Cash
+INV0212,Kinshasa,Alimentation,Huile,3.9,10,2026-04-06,Mobile Money
+INV0213,Kinshasa,Hygiène,Shampoing,37.07,2,2026-03-20,Mobile Money
+INV0214,Kinshasa,Vêtements,Chapeau,34.17,8,2026-04-19,Credit Card
+INV0215,Goma,Vêtements,Pantalon,18.51,5,2026-04-22,Cash
+INV0216,Kinshasa,Alimentation,Huile,7.88,8,2026-04-06,Mobile Money
+INV0217,Goma,Boissons,Thé,8.29,3,2026-03-24,Cash
+INV0218,Kinshasa,Alimentation,Huile,3.19,6,2026-04-28,Mobile Money
+INV0219,Lubumbashi,Hygiène,Savon,17.97,6,2026-04-22,Cash
+INV0220,Lubumbashi,Boissons,Jus,45.82,6,2026-03-19,Mobile Money
+INV0221,Lubumbashi,Boissons,Coca,36.98,9,2026-04-10,Credit Card
+INV0222,Goma,Vêtements,Pantalon,31.4,8,2026-04-02,Cash
+INV0223,Kinshasa,Électronique,Casque,40.12,3,2026-05-02,Credit Card
+INV0224,Lubumbashi,Boissons,Eau minérale,19.3,3,2026-04-25,Mobile Money
+INV0225,Kinshasa,Hygiène,Savon,7.97,7,2026-05-02,Mobile Money
+INV0226,Kinshasa,Électronique,Clé USB,24.71,4,2026-04-25,Cash
+INV0227,Lubumbashi,Hygiène,Savon,6.45,5,2026-05-05,Mobile Money
+INV0228,Lubumbashi,Alimentation,Farine,44.7,8,2026-04-29,Credit Card
+INV0229,Goma,Électronique,Clé USB,46.85,3,2026-04-05,Cash
+INV0230,Goma,Hygiène,Dentifrice,5.15,9,2026-04-06,Cash
+INV0231,Kinshasa,Boissons,Thé,21.36,4,2026-03-10,Credit Card
+INV0232,Goma,Électronique,Clé USB,48.43,2,2026-03-23,Credit Card
+INV0233,Goma,Boissons,Thé,19.82,4,2026-03-26,Credit Card
+INV0234,Goma,Alimentation,Riz,41.94,3,2026-04-25,Credit Card
+INV0235,Goma,Hygiène,Shampoing,4.36,10,2026-04-05,Credit Card
+INV0236,Kinshasa,Électronique,Batterie,22.88,4,2026-04-07,Mobile Money
+INV0237,Kinshasa,Alimentation,Farine,45.91,3,2026-03-27,Mobile Money
+INV0238,Lubumbashi,Vêtements,Pantalon,41.52,6,2026-03-28,Credit Card
+INV0239,Goma,Électronique,Lampe,20.74,8,2026-03-26,Credit Card
+INV0240,Goma,Électronique,Clé USB,26.07,5,2026-04-17,Cash
+INV0241,Goma,Alimentation,Huile,49.75,8,2026-03-12,Cash
+INV0242,Lubumbashi,Boissons,Coca,9.61,9,2026-03-14,Mobile Money
+INV0243,Kinshasa,Vêtements,Chapeau,19.02,9,2026-05-06,Mobile Money
+INV0244,Lubumbashi,Vêtements,T-shirt,21.34,9,2026-03-27,Mobile Money
+INV0245,Goma,Vêtements,Chapeau,48.25,2,2026-04-28,Cash
+INV0246,Kinshasa,Boissons,Eau minérale,21.63,8,2026-03-12,Mobile Money
+INV0247,Goma,Boissons,Jus,39.16,10,2026-04-03,Credit Card
+INV0248,Goma,Boissons,Thé,45.25,6,2026-05-08,Mobile Money
+INV0249,Goma,Boissons,Thé,48.71,3,2026-04-26,Credit Card
+INV0250,Goma,Vêtements,Chapeau,26.85,5,2026-04-19,Credit Card
+INV0251,Goma,Alimentation,Sucre,37.21,2,2026-04-08,Cash
+INV0252,Goma,Boissons,Jus,4.75,9,2026-03-29,Cash
+INV0253,Kinshasa,Électronique,Casque,45.31,3,2026-03-10,Mobile Money
+INV0254,Kinshasa,Hygiène,Déodorant,3.61,5,2026-05-05,Mobile Money
+INV0255,Goma,Hygiène,Dentifrice,5.39,5,2026-04-26,Credit Card
+INV0256,Lubumbashi,Vêtements,Pantalon,15.53,6,2026-04-18,Mobile Money
+INV0257,Lubumbashi,Électronique,Batterie,1.58,6,2026-03-30,Cash
+INV0258,Kinshasa,Vêtements,Pantalon,36.88,1,2026-03-12,Mobile Money
+INV0259,Kinshasa,Électronique,Batterie,3.65,7,2026-03-30,Credit Card
+INV0260,Lubumbashi,Hygiène,Shampoing,33.13,7,2026-03-22,Mobile Money
+INV0261,Goma,Alimentation,Farine,39.14,5,2026-04-13,Credit Card
+INV0262,Lubumbashi,Hygiène,Savon,40.07,6,2026-04-07,Cash
+INV0263,Kinshasa,Hygiène,Shampoing,7.22,6,2026-03-16,Mobile Money
+INV0264,Goma,Vêtements,Chapeau,17.34,6,2026-04-27,Mobile Money
+INV0265,Lubumbashi,Électronique,Clé USB,24.08,7,2026-04-03,Credit Card
+INV0266,Goma,Alimentation,Riz,7.93,10,2026-04-22,Mobile Money
+INV0267,Kinshasa,Électronique,Lampe,22.75,3,2026-03-10,Credit Card
+INV0268,Goma,Boissons,Jus,46.8,4,2026-04-22,Credit Card
+INV0269,Lubumbashi,Alimentation,Farine,36.14,2,2026-03-25,Cash
+INV0270,Goma,Électronique,Casque,19.38,8,2026-03-31,Credit Card
+INV0271,Lubumbashi,Hygiène,Déodorant,2.37,7,2026-04-04,Mobile Money
+INV0272,Lubumbashi,Vêtements,Chapeau,11.59,1,2026-03-10,Credit Card
+INV0273,Goma,Électronique,Casque,49.69,6,2026-03-15,Cash
+INV0274,Kinshasa,Électronique,Clé USB,45.73,1,2026-05-02,Mobile Money
+INV0275,Kinshasa,Électronique,Clé USB,21.14,10,2026-04-30,Credit Card
+INV0276,Goma,Vêtements,Chaussures,37.62,2,2026-04-26,Mobile Money
+INV0277,Kinshasa,Alimentation,Huile,31.15,7,2026-05-08,Credit Card
+INV0278,Goma,Boissons,Coca,8.62,7,2026-05-04,Cash
+INV0279,Kinshasa,Boissons,Coca,27.7,10,2026-05-07,Credit Card
+INV0280,Kinshasa,Électronique,Clé USB,16.39,8,2026-03-20,Credit Card
+INV0281,Lubumbashi,Vêtements,T-shirt,49.27,5,2026-05-07,Credit Card
+INV0282,Lubumbashi,Hygiène,Déodorant,49.62,4,2026-04-02,Credit Card
+INV0283,Lubumbashi,Alimentation,Riz,29.4,8,2026-04-02,Cash
+INV0284,Kinshasa,Hygiène,Savon,11.25,8,2026-03-29,Cash
+INV0285,Lubumbashi,Vêtements,T-shirt,21.98,3,2026-05-05,Mobile Money
+INV0286,Goma,Alimentation,Sucre,1.71,3,2026-03-19,Cash
+INV0287,Lubumbashi,Électronique,Lampe,5.01,6,2026-04-06,Cash
+INV0288,Lubumbashi,Vêtements,Pantalon,3.57,4,2026-04-27,Credit Card
+INV0289,Goma,Électronique,Lampe,45.25,6,2026-05-05,Cash
+INV0290,Lubumbashi,Alimentation,Huile,45.27,1,2026-05-01,Credit Card
+INV0291,Lubumbashi,Vêtements,Pantalon,34.97,10,2026-03-20,Mobile Money
+INV0292,Goma,Hygiène,Dentifrice,49.29,4,2026-04-04,Cash
+INV0293,Kinshasa,Électronique,Casque,1.3,2,2026-04-26,Mobile Money
+INV0294,Lubumbashi,Électronique,Batterie,6.73,1,2026-04-17,Mobile Money
+INV0295,Kinshasa,Vêtements,Chaussures,13.05,8,2026-03-18,Cash
+INV0296,Kinshasa,Boissons,Thé,6.26,6,2026-03-26,Cash
+INV0297,Goma,Électronique,Batterie,33.84,9,2026-04-06,Credit Card
+INV0298,Kinshasa,Alimentation,Riz,46.07,1,2026-03-30,Cash
+INV0299,Goma,Électronique,Casque,16.88,8,2026-04-12,Credit Card
+INV0300,Lubumbashi,Vêtements,Chaussures,5.98,5,2026-04-01,Mobile Money
+INV0301,Goma,Alimentation,Farine,14.79,4,2026-04-13,Mobile Money
+INV0302,Kinshasa,Boissons,Eau minérale,26.87,2,2026-04-13,Mobile Money
+INV0303,Kinshasa,Électronique,Casque,33.52,9,2026-03-16,Cash
+INV0304,Lubumbashi,Hygiène,Shampoing,16.98,9,2026-04-04,Credit Card
+INV0305,Goma,Alimentation,Riz,49.25,5,2026-03-23,Cash
+INV0306,Lubumbashi,Électronique,Batterie,15.47,2,2026-04-02,Credit Card
+INV0307,Lubumbashi,Alimentation,Sucre,24.92,1,2026-04-06,Credit Card
+INV0308,Lubumbashi,Électronique,Lampe,7.26,8,2026-03-21,Cash
+INV0309,Lubumbashi,Boissons,Eau minérale,22.16,10,2026-03-30,Cash
+INV0310,Lubumbashi,Hygiène,Dentifrice,45.22,10,2026-03-29,Credit Card
+INV0311,Kinshasa,Vêtements,Pantalon,2.36,4,2026-03-10,Credit Card
+INV0312,Lubumbashi,Électronique,Lampe,3.09,10,2026-04-29,Mobile Money
+INV0313,Goma,Hygiène,Dentifrice,16.73,9,2026-03-15,Credit Card
+INV0314,Lubumbashi,Hygiène,Shampoing,33.53,2,2026-03-30,Cash
+INV0315,Goma,Alimentation,Sucre,35.17,9,2026-03-10,Cash
+INV0316,Kinshasa,Électronique,Clé USB,12.04,1,2026-04-08,Cash
+INV0317,Kinshasa,Hygiène,Dentifrice,20.66,5,2026-05-08,Mobile Money
+INV0318,Lubumbashi,Vêtements,Pantalon,43.28,2,2026-03-31,Credit Card
+INV0319,Kinshasa,Alimentation,Farine,2.97,7,2026-03-20,Cash
+INV0320,Kinshasa,Électronique,Clé USB,9.17,10,2026-04-03,Cash
+INV0321,Lubumbashi,Alimentation,Huile,36.32,4,2026-05-03,Mobile Money
+INV0322,Lubumbashi,Hygiène,Déodorant,43.07,6,2026-05-09,Credit Card
+INV0323,Lubumbashi,Boissons,Coca,7.23,7,2026-04-03,Credit Card
+INV0324,Goma,Boissons,Thé,16.87,6,2026-05-07,Credit Card
+INV0325,Goma,Hygiène,Shampoing,27.24,6,2026-05-05,Mobile Money
+INV0326,Lubumbashi,Électronique,Batterie,15.71,5,2026-05-02,Mobile Money
+INV0327,Lubumbashi,Hygiène,Dentifrice,41.45,6,2026-04-20,Mobile Money
+INV0328,Lubumbashi,Alimentation,Farine,5.11,4,2026-05-04,Cash
+INV0329,Kinshasa,Électronique,Casque,47.64,6,2026-04-28,Mobile Money
+INV0330,Lubumbashi,Hygiène,Déodorant,22.56,5,2026-03-11,Cash
+INV0331,Kinshasa,Vêtements,Chaussures,1.93,10,2026-04-16,Credit Card
+INV0332,Kinshasa,Électronique,Lampe,42.21,8,2026-05-02,Credit Card
+INV0333,Lubumbashi,Vêtements,T-shirt,48.6,4,2026-03-10,Credit Card
+INV0334,Goma,Hygiène,Dentifrice,30.07,9,2026-04-03,Credit Card
+INV0335,Kinshasa,Boissons,Thé,48.21,9,2026-03-20,Cash
+INV0336,Kinshasa,Boissons,Eau minérale,31.47,1,2026-03-10,Mobile Money
+INV0337,Goma,Boissons,Eau minérale,28.54,5,2026-04-08,Cash
+INV0338,Lubumbashi,Vêtements,T-shirt,39.04,1,2026-03-31,Cash
+INV0339,Kinshasa,Hygiène,Déodorant,31.32,6,2026-05-04,Credit Card
+INV0340,Kinshasa,Boissons,Coca,16.62,7,2026-03-21,Mobile Money
+INV0341,Goma,Électronique,Lampe,11.54,4,2026-04-29,Credit Card
+INV0342,Kinshasa,Électronique,Clé USB,45.43,9,2026-05-07,Credit Card
+INV0343,Kinshasa,Hygiène,Savon,47.89,6,2026-03-16,Credit Card
+INV0344,Goma,Vêtements,Chaussures,41.55,1,2026-04-14,Credit Card
+INV0345,Kinshasa,Alimentation,Farine,7.51,1,2026-05-05,Credit Card
+INV0346,Lubumbashi,Électronique,Casque,12.86,10,2026-04-16,Cash
+INV0347,Goma,Boissons,Thé,29.52,3,2026-04-11,Cash
+INV0348,Lubumbashi,Hygiène,Dentifrice,24.93,5,2026-03-28,Mobile Money
+INV0349,Goma,Alimentation,Sucre,11.5,7,2026-04-09,Cash
+INV0350,Goma,Boissons,Coca,15.97,10,2026-04-28,Mobile Money
+INV0351,Goma,Hygiène,Déodorant,13.45,9,2026-04-14,Cash
+INV0352,Goma,Hygiène,Shampoing,30.57,3,2026-03-10,Cash
+INV0353,Goma,Électronique,Batterie,1.11,9,2026-03-13,Mobile Money
+INV0354,Lubumbashi,Hygiène,Dentifrice,33.51,4,2026-04-06,Cash
+INV0355,Goma,Hygiène,Savon,13.08,1,2026-05-04,Mobile Money
+INV0356,Lubumbashi,Alimentation,Sucre,21.31,3,2026-05-02,Cash
+INV0357,Kinshasa,Boissons,Eau minérale,21.41,2,2026-03-24,Mobile Money
+INV0358,Lubumbashi,Hygiène,Dentifrice,4.57,6,2026-04-21,Cash
+INV0359,Kinshasa,Boissons,Coca,30.03,6,2026-04-15,Credit Card
+INV0360,Lubumbashi,Vêtements,T-shirt,5.58,8,2026-04-28,Cash
+INV0361,Goma,Hygiène,Savon,10.06,3,2026-05-03,Mobile Money
+INV0362,Kinshasa,Électronique,Lampe,41.79,10,2026-03-12,Cash
+INV0363,Kinshasa,Vêtements,Pantalon,37.71,3,2026-04-25,Mobile Money
+INV0364,Goma,Hygiène,Shampoing,10.71,4,2026-04-10,Cash
+INV0365,Lubumbashi,Hygiène,Déodorant,16.16,8,2026-03-19,Mobile Money
+INV0366,Lubumbashi,Alimentation,Huile,20.66,3,2026-04-18,Mobile Money
+INV0367,Lubumbashi,Hygiène,Déodorant,22.37,6,2026-03-24,Mobile Money
+INV0368,Goma,Boissons,Coca,2.99,3,2026-03-30,Credit Card
+INV0369,Lubumbashi,Boissons,Eau minérale,9.59,3,2026-04-24,Cash
+INV0370,Goma,Boissons,Thé,22.17,9,2026-03-16,Mobile Money
+INV0371,Kinshasa,Électronique,Clé USB,26.65,8,2026-05-08,Mobile Money
+INV0372,Lubumbashi,Alimentation,Huile,17.9,5,2026-04-19,Credit Card
+INV0373,Goma,Alimentation,Sucre,6.75,4,2026-04-30,Mobile Money
+INV0374,Lubumbashi,Vêtements,Chaussures,26.16,8,2026-03-23,Cash
+INV0375,Lubumbashi,Alimentation,Farine,46.58,1,2026-04-11,Mobile Money
+INV0376,Kinshasa,Alimentation,Riz,20.59,6,2026-03-25,Mobile Money
+INV0377,Kinshasa,Alimentation,Sucre,12.21,10,2026-04-16,Cash
+INV0378,Kinshasa,Hygiène,Savon,4.87,5,2026-03-31,Credit Card
+INV0379,Kinshasa,Alimentation,Huile,17.22,8,2026-05-08,Mobile Money
+INV0380,Lubumbashi,Électronique,Lampe,29.91,8,2026-04-15,Credit Card
+INV0381,Kinshasa,Électronique,Lampe,12.62,10,2026-04-21,Mobile Money
+INV0382,Lubumbashi,Vêtements,Pantalon,19.62,3,2026-04-14,Cash
+INV0383,Kinshasa,Alimentation,Riz,44.5,4,2026-04-21,Credit Card
+INV0384,Kinshasa,Alimentation,Huile,27.17,10,2026-03-15,Credit Card
+INV0385,Goma,Électronique,Clé USB,28.61,10,2026-05-07,Cash
+INV0386,Kinshasa,Boissons,Thé,39.55,1,2026-03-14,Cash
+INV0387,Kinshasa,Électronique,Lampe,13.42,2,2026-04-08,Credit Card
+INV0388,Kinshasa,Alimentation,Sucre,40.84,9,2026-04-10,Cash
+INV0389,Lubumbashi,Électronique,Batterie,21.4,10,2026-04-22,Credit Card
+INV0390,Goma,Hygiène,Savon,38.25,3,2026-04-11,Cash
+INV0391,Kinshasa,Vêtements,Chapeau,48.05,10,2026-04-21,Cash
+INV0392,Goma,Vêtements,Pantalon,6.02,9,2026-03-18,Mobile Money
+INV0393,Lubumbashi,Vêtements,T-shirt,35.07,4,2026-05-09,Mobile Money
+INV0394,Kinshasa,Alimentation,Huile,17.72,5,2026-05-05,Mobile Money
+INV0395,Kinshasa,Hygiène,Dentifrice,19.18,3,2026-04-19,Mobile Money
+INV0396,Goma,Alimentation,Huile,5.88,5,2026-04-02,Mobile Money
+INV0397,Goma,Vêtements,Pantalon,40.93,1,2026-04-28,Credit Card
+INV0398,Kinshasa,Boissons,Coca,26.01,9,2026-04-24,Credit Card
+INV0399,Lubumbashi,Hygiène,Shampoing,13.91,8,2026-04-24,Cash
+INV0400,Lubumbashi,Hygiène,Déodorant,10.02,7,2026-04-25,Cash
+INV0401,Goma,Hygiène,Dentifrice,18.83,3,2026-04-24,Mobile Money
+INV0402,Lubumbashi,Hygiène,Shampoing,11.99,6,2026-03-17,Credit Card
+INV0403,Goma,Boissons,Thé,2.76,5,2026-03-21,Credit Card
+INV0404,Goma,Hygiène,Dentifrice,12.48,4,2026-05-06,Cash
+INV0405,Lubumbashi,Électronique,Lampe,14.1,2,2026-05-01,Credit Card
+INV0406,Lubumbashi,Électronique,Batterie,23.3,4,2026-04-18,Cash
+INV0407,Goma,Alimentation,Farine,31.67,4,2026-04-09,Mobile Money
+INV0408,Goma,Boissons,Coca,6.31,2,2026-04-16,Mobile Money
+INV0409,Lubumbashi,Électronique,Casque,24.32,10,2026-04-16,Cash
+INV0410,Goma,Électronique,Lampe,11.0,5,2026-04-02,Credit Card
+INV0411,Kinshasa,Vêtements,Chapeau,2.7,9,2026-04-19,Credit Card
+INV0412,Goma,Électronique,Clé USB,20.72,10,2026-04-13,Mobile Money
+INV0413,Kinshasa,Boissons,Jus,40.9,7,2026-05-01,Credit Card
+INV0414,Goma,Boissons,Coca,34.75,8,2026-03-15,Cash
+INV0415,Kinshasa,Hygiène,Shampoing,22.67,10,2026-03-27,Cash
+INV0416,Kinshasa,Alimentation,Riz,15.99,1,2026-05-03,Cash
+INV0417,Kinshasa,Boissons,Eau minérale,20.47,4,2026-03-10,Mobile Money
+INV0418,Lubumbashi,Électronique,Batterie,10.87,3,2026-05-04,Mobile Money
+INV0419,Goma,Alimentation,Riz,22.95,9,2026-04-10,Cash
+INV0420,Kinshasa,Électronique,Casque,8.37,2,2026-05-09,Cash
+INV0421,Lubumbashi,Électronique,Casque,32.47,5,2026-05-03,Cash
+INV0422,Kinshasa,Hygiène,Dentifrice,27.9,2,2026-04-16,Mobile Money
+INV0423,Lubumbashi,Boissons,Coca,35.11,3,2026-03-25,Credit Card
+INV0424,Lubumbashi,Hygiène,Déodorant,3.29,7,2026-03-27,Credit Card
+INV0425,Goma,Électronique,Lampe,34.51,9,2026-04-15,Credit Card
+INV0426,Kinshasa,Vêtements,Chaussures,45.87,7,2026-04-25,Cash
+INV0427,Kinshasa,Boissons,Eau minérale,8.23,10,2026-04-20,Mobile Money
+INV0428,Kinshasa,Électronique,Lampe,49.87,2,2026-03-16,Mobile Money
+INV0429,Kinshasa,Vêtements,T-shirt,48.82,8,2026-04-06,Mobile Money
+INV0430,Goma,Électronique,Casque,48.25,5,2026-04-04,Credit Card
+INV0431,Goma,Électronique,Casque,41.41,9,2026-04-18,Mobile Money
+INV0432,Lubumbashi,Boissons,Jus,36.24,4,2026-03-31,Cash
+INV0433,Kinshasa,Alimentation,Huile,20.99,7,2026-03-14,Mobile Money
+INV0434,Kinshasa,Alimentation,Riz,6.76,5,2026-03-28,Cash
+INV0435,Goma,Hygiène,Savon,22.63,4,2026-03-20,Credit Card
+INV0436,Goma,Électronique,Clé USB,36.71,1,2026-04-02,Mobile Money
+INV0437,Goma,Électronique,Lampe,8.97,7,2026-04-10,Mobile Money
+INV0438,Lubumbashi,Alimentation,Farine,31.88,1,2026-05-06,Mobile Money
+INV0439,Goma,Vêtements,Pantalon,48.9,9,2026-03-20,Cash
+INV0440,Lubumbashi,Électronique,Casque,14.46,3,2026-04-22,Credit Card
+INV0441,Goma,Alimentation,Sucre,22.08,2,2026-04-10,Cash
+INV0442,Goma,Électronique,Batterie,1.22,3,2026-04-23,Mobile Money
+INV0443,Goma,Vêtements,Chapeau,7.86,7,2026-04-19,Cash
+INV0444,Lubumbashi,Alimentation,Huile,48.59,4,2026-03-31,Mobile Money
+INV0445,Lubumbashi,Électronique,Lampe,8.92,1,2026-03-14,Credit Card
+INV0446,Kinshasa,Alimentation,Huile,21.84,8,2026-05-08,Credit Card
+INV0447,Kinshasa,Boissons,Thé,33.13,9,2026-04-27,Credit Card
+INV0448,Goma,Électronique,Clé USB,39.0,5,2026-05-03,Cash
+INV0449,Kinshasa,Vêtements,Chaussures,39.71,2,2026-04-30,Mobile Money
+INV0450,Goma,Vêtements,Chapeau,40.45,9,2026-03-15,Cash
+INV0451,Lubumbashi,Vêtements,Chaussures,20.55,10,2026-03-25,Cash
+INV0452,Kinshasa,Vêtements,T-shirt,7.02,5,2026-04-30,Mobile Money
+INV0453,Goma,Électronique,Batterie,49.05,7,2026-04-13,Cash
+INV0454,Goma,Vêtements,Chaussures,1.83,3,2026-04-21,Mobile Money
+INV0455,Lubumbashi,Boissons,Eau minérale,9.37,7,2026-03-31,Mobile Money
+INV0456,Lubumbashi,Électronique,Lampe,15.37,1,2026-04-25,Mobile Money
+INV0457,Kinshasa,Vêtements,Pantalon,10.71,10,2026-03-31,Mobile Money
+INV0458,Lubumbashi,Vêtements,T-shirt,25.61,7,2026-04-20,Cash
+INV0459,Goma,Boissons,Coca,43.2,7,2026-05-09,Mobile Money
+INV0460,Goma,Hygiène,Déodorant,23.07,7,2026-03-10,Cash
+INV0461,Lubumbashi,Hygiène,Dentifrice,24.33,5,2026-03-22,Credit Card
+INV0462,Goma,Électronique,Lampe,9.64,3,2026-04-22,Cash
+INV0463,Lubumbashi,Hygiène,Déodorant,23.58,5,2026-03-26,Cash
+INV0464,Lubumbashi,Hygiène,Dentifrice,12.95,6,2026-04-12,Cash
+INV0465,Kinshasa,Hygiène,Déodorant,17.36,6,2026-04-22,Credit Card
+INV0466,Lubumbashi,Alimentation,Sucre,44.67,9,2026-03-24,Credit Card
+INV0467,Kinshasa,Électronique,Casque,27.44,1,2026-03-25,Mobile Money
+INV0468,Kinshasa,Électronique,Batterie,26.57,5,2026-03-26,Mobile Money
+INV0469,Kinshasa,Hygiène,Savon,2.19,9,2026-05-01,Credit Card
+INV0470,Goma,Vêtements,Chaussures,47.39,7,2026-03-28,Mobile Money
+INV0471,Goma,Vêtements,Pantalon,48.47,5,2026-04-24,Cash
+INV0472,Kinshasa,Alimentation,Farine,46.83,9,2026-03-17,Mobile Money
+INV0473,Lubumbashi,Vêtements,Chaussures,14.96,8,2026-04-18,Credit Card
+INV0474,Lubumbashi,Hygiène,Shampoing,48.31,3,2026-04-02,Credit Card
+INV0475,Lubumbashi,Alimentation,Sucre,48.83,7,2026-03-13,Cash
+INV0476,Kinshasa,Hygiène,Savon,41.43,2,2026-03-27,Cash
+INV0477,Goma,Alimentation,Farine,12.35,9,2026-04-03,Cash
+INV0478,Kinshasa,Alimentation,Sucre,4.71,8,2026-03-23,Mobile Money
+INV0479,Lubumbashi,Alimentation,Huile,42.21,4,2026-04-25,Cash
+INV0480,Lubumbashi,Hygiène,Savon,45.22,6,2026-04-11,Cash
+INV0481,Lubumbashi,Boissons,Jus,38.16,1,2026-04-20,Mobile Money
+INV0482,Kinshasa,Hygiène,Dentifrice,28.56,1,2026-03-15,Cash
+INV0483,Goma,Alimentation,Farine,14.57,8,2026-04-23,Mobile Money
+INV0484,Goma,Alimentation,Farine,47.18,10,2026-03-19,Credit Card
+INV0485,Kinshasa,Vêtements,Chapeau,12.3,8,2026-03-19,Cash
+INV0486,Kinshasa,Vêtements,Chaussures,40.67,5,2026-04-12,Credit Card
+INV0487,Lubumbashi,Électronique,Clé USB,6.95,9,2026-05-09,Cash
+INV0488,Lubumbashi,Boissons,Coca,32.45,7,2026-03-15,Credit Card
+INV0489,Lubumbashi,Électronique,Clé USB,43.15,8,2026-04-29,Mobile Money
+INV0490,Kinshasa,Électronique,Clé USB,32.05,7,2026-04-21,Credit Card
+INV0491,Lubumbashi,Électronique,Casque,14.84,4,2026-03-31,Cash
+INV0492,Kinshasa,Hygiène,Savon,7.49,10,2026-04-23,Cash
+INV0493,Lubumbashi,Alimentation,Sucre,27.14,6,2026-03-21,Mobile Money
+INV0494,Lubumbashi,Électronique,Lampe,34.27,7,2026-03-18,Cash
+INV0495,Kinshasa,Vêtements,Chaussures,31.24,3,2026-03-16,Credit Card
+INV0496,Lubumbashi,Électronique,Batterie,45.16,3,2026-03-21,Credit Card
+INV0497,Lubumbashi,Hygiène,Déodorant,43.58,4,2026-04-02,Mobile Money
+INV0498,Kinshasa,Alimentation,Huile,14.31,10,2026-04-22,Credit Card
+INV0499,Lubumbashi,Électronique,Batterie,12.74,4,2026-05-08,Mobile Money
+INV0500,Goma,Vêtements,T-shirt,27.19,7,2026-04-07,Credit Card
