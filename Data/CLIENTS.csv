@@ -1,0 +1,50 @@
+client_id,facture_id,nom,genre,age,ville 
+C001,INV001,Alice Mbala,F,25,Kinshasa 
+C002,INV002,John Kabu,M,32,Lubumbashi 
+C003,INV003,Marie Lemba,F,29,Goma 
+C004,INV004,Paul Mbuyi,M,40,Kinshasa 
+C005,INV005,Sophie Kanza,F,22,Lubumbashi 
+C006,INV006,Jean Tshibanda,M,35,Goma 
+C007,INV007,Clara Mbemba,F,28,Kinshasa 
+C008,INV008,David Kiala,M,31,Lubumbashi
+C009,INV009,Emilie Lufulu,F,27,Goma 
+C010,INV010,Michel Banza,M,38,Kinshasa 
+C011,INV011,Chantal Kabongo,F,24,Lubumbashi
+C012,INV012,Alex Tshibangu,M,36,Goma 
+C013,INV013,Ana Mbuyi,F,26,Kinshasa 
+C014,INV014,Marc Lemba,M,33,Lubumbashi 
+C015,INV015,Isabelle Kabila,F,29,Goma 
+C016,INV016,Patrick Mbala,M,41,Kinshasa
+C017,INV017,Nathalie Kunda,F,23,Lubumbashi 
+C018,INV018,Richard Lufulu,M,37,Goma
+C020,INV020,Albert Kiala,M,34,Lubumbashi
+C021,INV021,Julie Mbemba,F,30,Goma
+C022,INV022,Kevin Tshibanda,M,39,Kinshasa
+C023,INV023,Monique Kanza,F,24,Lubumbashi
+C024,INV024,Eric Banza,M,36,Goma
+C025,INV025,Patricia Lemba,F,27,Kinshasa
+C026,INV026,Daniel Kabu,M,32,Lubumbashi
+ C027,INV027,Laura Mbala,F,29,Goma
+ C028,INV028,Samuel Lufulu,M,40,Kinshasa
+C029,INV029,Christine Kiala,F,26,Lubumbashi
+C030,INV030,Jean-Pierre Mbuyi,M,35,Goma
+C031,INV031,Alexandra Mbemba,F,25,Kinshasa
+C032,INV032,Bruno Kiala,M,33,Lubumbashi
+C033,INV033,Stephanie Lemba,F,28,Goma
+C034,INV034,Pierre Mbuyi,M,37,Kinshasa
+C035,INV035,Marina Kanza,F,24,Lubumbashi
+ C036,INV036,David Tshibanda,M,39,Goma
+C037,INV037,Isabelle Mbala,F,27,Kinshasa
+ C038,INV038,Paul Kabu,M,34,Lubumbashi
+C039,INV039,Caroline Lufulu,F,29,Goma
+ C040,INV040,Michel Banza,M,41,Kinshasa
+ C041,INV041,Chantal Kabongo,F,26,Lubumbashi
+C042,INV042,Alex Tshibangu,M,35,Goma
+ C043,INV043,Ana Mbuyi,F,28,Kinshasa
+C044,INV044,Marc Lemba,M,32,Lubumbashi
+C045,INV045,Isabelle Kabila,F,29,Goma
+C046,INV046,Patrick Mbala,M,40,Kinshasa
+C047,INV047,Nathalie Kunda,F,23,Lubumbashi
+C048,INV048,Richard Lufulu,M,36,Goma
+C049,INV049,Sylvie Kabamba,F,28,Kinshasa
+C050,INV050,Albert Kiala,M,33,Lubumbashi
